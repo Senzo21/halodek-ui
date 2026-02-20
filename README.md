@@ -5,3 +5,4 @@ Run:
 2. npx expo start -c
 3. Scan QR with Expo Go or run in emulator.
 4. Google Drive Link: https://drive.google.com/file/d/1XRdFUVAa03rhUzTJUeLvp0Ngj9qoALeh/view?usp=sharing
+5. Updated code link: https://github.com/Senzo21/halodek-ui-fixed
